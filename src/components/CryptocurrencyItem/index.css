@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.crypto-text {
+  color: white;
+  font-size: 18px;
+  width: 120px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.text-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
